@@ -2,10 +2,32 @@
 
 _Projeto que desenvolvido ao longo de 5 dias através da plataforma de estudos Alura._
 
-**Aula 1** - Criação e estilização da barra de navegação lateral.
+## Aula 1 
 
-***Desafio***  - Criação do elemento "Sua biblioteca.
+- Criação da navigation sidebar;
 
-**Aula 2** - Criação e estilização os elementos, "Sua biblioteca", "Crie sua primeira playlist", "Cookies", e "Botão de linguagem".
+- Introdução de propriedades de estilo do CSS no projeto;
 
-***Desafio*** - Criação e estilização do footer e como aplicar cor gradiente através de CSS.
+***Desafio:*** Criação do "Sua biblioteca" e estilização através de propriedes CSS.
+
+## Aula 2
+
+- Criação de todo o menu lateral da página.
+
+- Estilização dos elementos, "Crie sua primeira playlist", "Cookies", e "Botão de linguagem" com propriedades CSS;
+
+- Fundamentos do CSS Flexbox e revisão sobre posicionamentos no CSS;
+
+***Desafio:*** Fazer e estilizar a tag footer de acordo com o layout do Spotify que foi demonstrado e aprender como aplicar cores em gradiente.
+
+## Aula 3
+
+- Estruturando o projeto melhor;
+
+- Refatoração do código;
+
+- Criação do menu superior com layout Flexbox;
+
+- Introdução dos conceitos de responsividade;
+
+***Desafio:*** Fazer o card de "Boa tarde" e "Navegar por todas as seções" na tag main.
