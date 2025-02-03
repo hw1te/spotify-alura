@@ -41,3 +41,15 @@ _Projeto que desenvolvido ao longo de 5 dias através da plataforma de estudos A
 - Utilização dos conceitos DOM.
 
 ***Desafio:*** Fazer aparecer mais cards ao mesmo tempo durante a busca pelo input search.
+
+## Aula 5
+
+- Inicializando npx react-app;
+
+- Conceitos básicos de React;
+
+- Criando um componente na aplicação **React** baseado na estrutura do Spotify em HTML e CSS.
+
+***Próximo objetivo:*** Levar todos os elemento e estilos para o aplicativo React.
+
+Ainda disponibilizarei o link para aplicação em React.
